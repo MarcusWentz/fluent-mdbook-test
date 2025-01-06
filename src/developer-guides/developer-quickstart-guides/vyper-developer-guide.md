@@ -143,13 +143,18 @@ main()
 
 To deploy the compiled Vyper smart contract, run:
 
-<pre class="language-bash"><code class="lang-bash">npx hardhat run scripts/deploy-vyper.js --network fluent_devnet1
+```bash
+npx hardhat run scripts/deploy-vyper.js --network fluent_devnet1
+```
 
-<strong># Deploying contract...
-</strong># Chain ID: 20993
+for output:
+
+```
+# Deploying contract...
+# Chain ID: 20993
 # Deployer address: 
 # Deployer balance:
 # Contract address: 
-</code></pre>
+```
 
 To view your deployed Fluent contract, navigate to the [Fluent Devnet Explorer](https://blockscout.dev.gblend.xyz/). From there, you can input your token address to explore your deployed contract.

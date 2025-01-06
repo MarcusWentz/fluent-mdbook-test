@@ -146,7 +146,11 @@ To deploy the compiled solidity smart contract, run:
 
 ```bash
 npx hardhat run scripts/deploy-solidity.js --network fluent_devnet1
+```
 
+for output:
+
+```
 # Deploying contract...
 # Chain ID: 20993
 # Deployer address: 

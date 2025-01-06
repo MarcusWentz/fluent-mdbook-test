@@ -84,8 +84,9 @@ This snippet shows how simple it is to interact with the Fluent VM: just call th
 
 Understanding the deployment process starts with comprehending the role of the Makefile. This file compiles Rust code into Wasm & rWasm and generates the necessary binaries that will be embedded in a tx for deployment.
 
-<pre class="language-bash"><code class="lang-bash"><strong>gblend build rust -r
-</strong></code></pre>
+```bash
+gblend build rust -r
+```
 
 Executing this command compiles the code and generates a file named `lib.wasm` in the `bin` directory.
 

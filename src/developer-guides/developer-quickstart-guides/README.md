@@ -38,14 +38,20 @@ Select the option that aligns with your preferred programming language for smart
 
 <table data-column-title-hidden data-view="cards">
     <tbody>
-        <tr><td align="center">
-        <a href="solidity-developer-guide.md"><strong>Solidity</strong></a>
+        <tr>
+            <td align="center">
+                <a href="solidity-developer-guide.md"><strong>Solidity</strong></a>
+            </td>
         </tr>
-        <tr><td align="center">
-        <a href="rust-developer-guide.md"><strong>Rust</strong></a>
+        <tr>
+            <td align="center">
+                <a href="rust-developer-guide.md"><strong>Rust</strong></a>
+            </td>
         </tr>
-        <td align="center">
-        <a href="vyper-developer-guide.md"><strong>Vyper</strong></a>
+        <tr>
+            <td align="center">
+                <a href="vyper-developer-guide.md"><strong>Vyper</strong></a>
+            </td>
         </tr>
     </tbody>
 </table>
