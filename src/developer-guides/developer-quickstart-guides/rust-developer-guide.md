@@ -1,7 +1,5 @@
 # Rust Developer Guide
 
-# Rust Developer Guide
-
 For Rust smart contracts, any  **`no_std`** compatible crate (e.g., `rand`, `alloc`) can be used. Standard library crates are not supported. Verified libraries can be found on [**crates.io**](https://crates.io/categories/no-std)**.**&#x20;
 
 ## **Prerequisites**

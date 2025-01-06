@@ -6,4 +6,6 @@ src = "src"
 title = "🎨 fluent 🎨"
 
 [output.html]
-prefer-absolute-links = true
+git-repository-url = "https://github.com/MarcusWentz/fluent-mdbook-test"
+edit-url-template =  "https://github.com/MarcusWentz/fluent-mdbook-test/edit/main/src/README.md"
+additional-js =  ["src/static/solidity.min.js"]
