@@ -4,12 +4,10 @@
 
 Before getting started, make sure to install the following:
 
-```
-npm >= 19
-[Fluent build tool](./#install-fluent-scaffold-cli-tool)
-```
+* npm >= 19
+* [Fluent build tool](./#install-fluent-scaffold-cli-tool)
 
-## Install Fluent scaffold CLI tool
+## Install Fluent Scaffold CLI Tool
 
 To install the Fluent scaffold CLI tool, run the following command in your terminal:
 
@@ -80,6 +78,8 @@ require("@nomiclabs/hardhat-vyper");
 
 Within the `networks` object, you can see the `fluent_devnet1` configuration. This specifies the URL to connect to the Fluent Devnet, along with the chain ID and the accounts available for transactions.
 
+> ℹ️ **Note**  
+>
 > Use [Fluent Faucet](https://faucet.dev.gblend.xyz/) to request test tokens.
 
 Next, let's explore how you can compile and deploy your first smart contract to the Fluent Devnet.

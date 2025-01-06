@@ -4,10 +4,8 @@
 
 Before getting started, make sure to install the following:
 
-```
-npm >= 19
-[Fluent build tool](./#install-fluent-scaffold-cli-tool)
-```
+* npm >= 19
+* [Fluent build tool](./#install-fluent-scaffold-cli-tool)
 
 ## Install Fluent Scaffold CLI Tool
 
